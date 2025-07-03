@@ -5,7 +5,7 @@ Flask Output
 
 Streamlit Output
 
-![flask1](https://github.com/user-attachments/assets/6ec6d208-c34e-4ba6-94f8-6bed7811351d)
+![streamlit1](https://github.com/user-attachments/assets/f0cc501e-9801-467d-8b9c-967b1bbfaefd)
 
   
 MLFlow Outputs
