@@ -1,4 +1,3 @@
-<pre>
 
 Flask Output
 
@@ -21,4 +20,3 @@ Evidently AI Outputs
   
 ![evidentli_ai_artifacts](https://github.com/user-attachments/assets/a759080d-2e18-43ab-b930-68b5e9425f90)
 ![evidentli_ai2](https://github.com/user-attachments/assets/7622d4fc-3871-43f0-8895-5c933ecf43bc)
-</pre>
